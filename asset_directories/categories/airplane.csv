@@ -1,0 +1,10 @@
+path,relative_size,canonical_axis,preferred_orientation,preferred_qx,preferred_qy,preferred_qz,preferred_qw
+dexgraspnet_objects/objects/ddg-ycb_072-a_toy_airplane/coacd/decomposed.obj,0.1220953495857712,z,z,,,,
+dexgraspnet_objects/objects/mujoco-TURBOPROP_AIRPLANE_WITH_PILOT/coacd/decomposed.obj,0.1345310130607348,z,z,,,,
+dexgraspnet_objects/objects/sem-Airplane-8e47730a471abb7f43afdb9c81ff2967/coacd/decomposed.obj,0.10881073479928352,z,z,,,,
+dexgraspnet_objects/objects/sem-Airplane-9a0f4dd21a4ca19bf1cb19f636b1c2bd/coacd/decomposed.obj,0.11741595562704017,z,z,,,,
+dexgraspnet_objects/objects/sem-Airplane-68ff153952368948b4eba5f9f157d8c8/coacd/decomposed.obj,0.10975863877750196,z,z,,,,
+dexgraspnet_objects/objects/sem-Airplane-98a84003006d3c7142a4fe95eae396be/coacd/decomposed.obj,0.10618067088586526,z,z,,,,
+dexgraspnet_objects/objects/sem-Airplane-704645aab47a7523eeffd0b15e05669b/coacd/decomposed.obj,0.10372577994497727,z,z,,,,
+dexgraspnet_objects/objects/sem-Airplane-866180a3962eb78526acd17789ec9c7b/coacd/decomposed.obj,0.10405199047028266,z,z,,,,
+dexgraspnet_objects/objects/sem-Airplane-d0198fd427a58492dd8dc6d5a969eed/coacd/decomposed.obj,0.10697040591548868,z,z,,,,

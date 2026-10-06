@@ -1,0 +1,48 @@
+version: 1
+
+# Relative paths are resolved from this catalog file. Override this location
+# with GRASP_ENV_ASSET_ROOT when datasets are stored elsewhere.
+asset_root: ../assets
+category_directory: categories
+
+category_defaults:
+  spacing: 0.3
+
+datasets:
+  vgn:
+    directory: vgn_objects
+    loader: vgn_collision
+    default_scale: 1.0
+    preferred_orientation: z
+    spacing: 0.2
+
+  egad:
+    directory: egad_objects
+    loader: recursive_obj
+    subdirectory: test
+    default_scale: null
+    preferred_orientation: u
+    spacing: 200.0
+
+  graspnet:
+    directory: graspnet_1B_objects
+    loader: recursive_obj
+    subdirectory: test
+    default_scale: 1.0
+    preferred_orientation: z
+    spacing: 0.2
+
+  dexgraspnet:
+    directory: dexgraspnet_objects
+    loader: dexgraspnet_coacd
+    subdirectory: objects
+    default_scale: null
+    preferred_orientation: z
+    spacing: 2.0
+
+  local:
+    directory: custom_objects
+    loader: recursive_obj
+    default_scale: 1.0
+    preferred_orientation: z
+    spacing: 0.3

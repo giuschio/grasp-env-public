@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.3", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "grasp-env"
+version = "0.1.0"
+description = "PyBullet environment for cluttered grasping experiments."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib",
+    "natsort",
+    "numpy",
+    "open3d",
+    "pandas",
+    "pybullet",
+    "pyyaml",
+    "scipy",
+]
+
+[tool.setuptools.packages.find]
+include = ["grasp_env", "grasp_env.*"]

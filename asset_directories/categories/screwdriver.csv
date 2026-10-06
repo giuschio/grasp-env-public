@@ -1,0 +1,6 @@
+path,relative_size,canonical_axis
+dexgraspnet_objects/objects/ddg-gd_screwdriver_poisson_006/coacd/decomposed.obj,0.10239590953840376,z
+dexgraspnet_objects/objects/ddg-gd_screwdriver_poisson_022/coacd/decomposed.obj,0.10213972573550675,y
+dexgraspnet_objects/objects/ddg-ycb_043_phillips_screwdriver/coacd/decomposed.obj,0.10472568926722715,z
+dexgraspnet_objects/objects/ddg-ycb_044_flat_screwdriver/coacd/decomposed.obj,0.14058251711277042,z
+graspnet_1B_objects/test/020/nontextured_simplified.ply,0.6866748545152731,y

@@ -1,0 +1,12 @@
+path,relative_size,canonical_axis,preferred_orientation,preferred_qx,preferred_qy,preferred_qz,preferred_qw
+graspnet_1B_objects/test/026/nontextured_simplified.ply,1.5010282474767995,,quat,0.7876635284,0.1150875261,0.2382296787,0.5564060097
+graspnet_1B_objects/test/027/nontextured_simplified.ply,1.8368846404567107,,quat,0.0882186854,0.2031789765,0.0602904794,0.9732938021
+graspnet_1B_objects/test/030/nontextured_simplified.ply,1.477606815513505,,quat,0.9924431087,0.0363426435,-0.0137097907,0.1163955749
+custom_objects/fasteners_convex/convex_m8_bolt_long.obj,2.647603860295411,,quat,-0.5359233612,0.4259483778,0.3613123577,0.6330936033
+custom_objects/fasteners_convex/convex_m8_bolt_short.obj,3.9624885521726942,,quat,0.9975716389,-0.0696478140,0.0000718255,-0.0000463540
+custom_objects/fasteners_convex/convex_m8_cap_nut.obj,2.6239832650298265,,quat,0.2506929033,0.0978610209,0.8626190480,-0.4283277563
+custom_objects/fasteners_convex/convex_m8_wing_nut.obj,2.6346604723899385,,quat,-0.0000626827,0.0001130819,0.6062343290,0.7952860628
+custom_objects/fasteners_convex/convex_m8_nut.obj,3.279979081287283,,quat,0.0002626643,-0.0001526182,0.4804388424,0.8770281788
+custom_objects/fasteners_convex/convex_pin.obj,3.9654214449716965,,quat,-0.0001759674,-0.0000293839,-0.5059547334,0.8625600129
+custom_objects/fasteners_convex/convex_rivet.obj,2.3222637894856986,,quat,-0.5612135978,0.3512307314,-0.5424312016,0.5171505221
+custom_objects/fasteners_convex/convex_wood_screw.obj,1.8092179264237491,,quat,-0.5935978355,-0.3478646962,0.6270171171,-0.3653509241

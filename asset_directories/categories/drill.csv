@@ -1,0 +1,6 @@
+path,relative_size,canonical_axis
+dexgraspnet_objects/objects/ddg-gd_drill_poisson_000/coacd/decomposed.obj,0.13514949778298785,z
+graspnet_1B_objects/test/008/nontextured_simplified.ply,1.1682863529860483,y
+dexgraspnet_objects/objects/ddg-gd_drill_poisson_000/coacd/decomposed.obj,0.13514949778298785,y
+graspnet_1B_objects/test/008/nontextured_simplified.ply,1.1682863529860483,z
+graspnet_1B_objects/test/025/nontextured_simplified.ply,1.1682863529860483,z
