@@ -29,17 +29,19 @@ being released across separate repositories:
 - **Simulation environment (this repository):** scene generation, data
   collection, and simulated grasp evaluation. This is the environment used for
   the paper's data collection and simulation experiments.
-- **[Grasp detection model]():** model training and grasp inference (coming
-  soon).
-- **[Robot control and deployment]():** real-robot execution code (coming
-  soon).
-- **[Paper benchmark]():** the top-level reproduction repository, which brings
-  the three components above together as Git submodules and provides the
-  benchmarking scripts used for the paper (coming soon).
+- **[Grasp detection model](https://github.com/giuschio/graspcl-model-public):**
+  model training, grasp inference, recall, and continual adaptation.
+- **[Robot control and deployment](https://github.com/giuschio/simple-panda-grasp-public):**
+  camera calibration, real-world perception, reachability checks, and grasp
+  execution.
+- **[Paper benchmark](https://github.com/giuschio/graspcl-benchmark-public):**
+  the top-level reproduction repository, which brings the three components
+  together as Git submodules and provides the benchmarking scripts used for
+  the paper.
 
 If your goal is to reproduce the paper's results end to end, use the benchmark
-repository once it is available. This repository can be used independently for
-simulation and data collection.
+repository. This repository can be used independently for simulation and data
+collection.
 
 ## Citation
 
